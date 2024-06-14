@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3677d9340b8cfba479b4fc678f64f122, type: 3}
+  m_Name: Lemon
+  m_EditorClassIdentifier: 
+  RapidFire: 0
+  OverArmor: {r: 0, g: 0.5019608, b: 0.9725491, a: 0}
+  UnderArmor: {r: 0, g: 0.8470589, b: 0.94117653, a: 0}
+  Projectile: {fileID: 2357371283620294579, guid: f971c3f3171f4ec4a8996813b6e4c764, type: 3}
+  HalfChargedProjectile: {fileID: 0}
+  FullyChargedProjectile: {fileID: 0}
+  MaxEnergy: 0

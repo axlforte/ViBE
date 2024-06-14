@@ -1,0 +1,28 @@
+outer armor dark - 32
+outer armor transition - 1
+outer armor bright - 0
+inner armor dark - 24
+inner armor transition - 80
+inner armor bright - 120
+outline - 23
+face dark - 128
+face transition - 184
+face bright - 248
+gem - 240
+eye green - 18
+grey dark - 49
+grey transition - 84
+grey bright - 152
+white glove - 224
+eye white - 240
+
+long story short this uses a pallete system so that I can map new colors to preexisting colors
+it works by finding the color(s) with a specific r value in its rgb and if it matches with a non-invisible
+color in a pallete texture it replaces the color with the corresponding color in the pallete
+
+this is why the pallete textuures are 256 wide instead of a convenient 16; i need to access the whole 256
+range of the red channel, ive also changed some colors because they have the same red value. thankfully,
+this system is very robust and also allows for use on literally any kind of sprite, you just need a unique
+material for all existing entities.
+
+i work so slow on this mojang could actually add a mob in the time i finish

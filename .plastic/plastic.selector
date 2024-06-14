@@ -1,0 +1,4 @@
+repository "Megaman-Xsharp@AxlForte@cloud"
+  path "/"
+    br "/main"
+    co "/main"

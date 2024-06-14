@@ -1,0 +1,3543 @@
+fileFormatVersion: 2
+guid: 0c003a2e0770e1a4c954538afffadaed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1485
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff78aba712f7a24bb48b11d72df8882
+      internalID: 1497880765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1457
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99ec16560f43174a8ff767e1202ddf7
+      internalID: -1378060329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1459
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf09210f7912ae44a066a939201a058
+      internalID: -196380934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1457
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af05470b5537a4dbfa34c132e3f1dc
+      internalID: -444562170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1452
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eef837da6025e4f95a9dbdb93e8b04
+      internalID: -726821108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1455
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8aee68480efa34f878368a70dd3dd0
+      internalID: -1847463049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1279
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3b81ba80692d40a49eac3efb1709d
+      internalID: -1762000691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1279
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47b5bfbf3c4b0b44845916d7cddf333
+      internalID: 1685694677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1280
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9801f88fc9e144bbe07cd7352ac0f
+      internalID: -1051913764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1598
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6b245fdb3bb645a269b4834c44afd
+      internalID: -1410137509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1598
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7640f28948c1a9458dfaab760c86fd2
+      internalID: 2015063353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1598
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f43f55966c6c04a86ddc69c85576ca
+      internalID: 1618647359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1598
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03de8637eb27a44898b28360f6f0acf
+      internalID: 816368267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1582
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfabf589fb60054f81080582c01eb96
+      internalID: -1757724298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1582
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e54708efb2c4142bef653b0d00ff73
+      internalID: 1128267849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1582
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e14d5260b68d4ab088d3739707fd7
+      internalID: -1889070489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1582
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca5b9f41e412e14fbafb045695d997c
+      internalID: -62041685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1598
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e61c764d8517d0479a4b057f9d2394e
+      internalID: -85206001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1598
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fa41f554091444e942a1ae3e699f4e
+      internalID: -683418789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1598
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b14c9a1ec41342a3c9c58d599d4cf
+      internalID: -744546655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1582
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab38289fdc5df541999af126b3d07af
+      internalID: -273736542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1582
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05a3cd2251d29541990893209976479
+      internalID: 1664430872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1582
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89d604a6d9c97d459d514589fadd157
+      internalID: -142333235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1582
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a895ea94a0a7b42a129bd8895908db
+      internalID: -1798312712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_24
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1582
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a839cee4f026034996871860829c2c4
+      internalID: 184358863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1582
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d3556034894fb41b8f1597fa8b34a3
+      internalID: -1832208210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1582
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e384762be6cd164aaee7d24710b0233
+      internalID: 784006373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1654
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15b2aeac7e397499bd5f3985c5363a
+      internalID: -807813748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e596be0b951a24abca4280f4dd8497
+      internalID: 520064587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6af889d04706a4c8822b0258e0c6dc
+      internalID: -2043933575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8b72ddeeae3e4b915816303115a30
+      internalID: -1914558902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47fe7cc025b06469ccd64ae6cf9b1d
+      internalID: -897775359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9836755c4db94944e8196712bc9c984e
+      internalID: -1217202292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c108dafdfbf943ac5991ee7efa345
+      internalID: -67896899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cb2ef278328134c85016aaeb453e4d
+      internalID: 1660063736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638b1c6bf72b45419a66322b7eab9b3
+      internalID: -941897449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19044d5205ed0045a57917027fc8ce6
+      internalID: -1403763296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ebfede7b36a1e45b0a63898020be1b
+      internalID: -557009893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bc1a645e401d458d8fa162e0c87c7
+      internalID: 1152600679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 773
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f8d156a5e023449e17d8e5adedb00
+      internalID: -711533924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 775
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaae2986288faf4187ddfa1e649cea8
+      internalID: -1477258844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 775
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab043877705b634ba9129577605a88c
+      internalID: 1220823246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 776
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd74e90afad644fb661d5860d245cb
+      internalID: -1122896998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 776
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87d5e4359e9474984db678da02fac9
+      internalID: -2043226421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 776
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e046c32a699f3489c199a0e14d454e
+      internalID: -1392887530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_45
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 754
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c026bc69970604ca9877680574016a
+      internalID: -1962054492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 754
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6c31111392834eb6c139a6f35591a
+      internalID: 882147035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_47
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 754
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b9c3c78b057f0438455b553ae67fb6
+      internalID: 171756825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_48
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 754
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad02c11b6e86a74bb7ebb566db5fe1e
+      internalID: -1852853570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_49
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 754
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b207954c887a3941bf63192b6595014
+      internalID: -1172857830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_50
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 752
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc813cf0789c141843bc4334e4c2d5
+      internalID: -1219811945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_51
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 792
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717add6673527ed4d8736e9f836196ac
+      internalID: 93235029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_52
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 785
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68dad9cada4f1a4fadce3dd28d48903
+      internalID: -331567147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_53
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 784
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e6e14d11f32de45a1da1ac4fd7bea2
+      internalID: -1633341184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_54
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 798
+        width: 7
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2a99fe1856144abb2475988d1bc8d
+      internalID: 32071106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 587
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43c3442d305614c98eaaa26deb460e
+      internalID: -298906760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 585
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d267f3754b2ce244b3b8e7bd96e7110
+      internalID: -1457375039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a239eee234a2846ba7fb77150443dc
+      internalID: 149347245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 583
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d548749696d424c8654943e4069a13
+      internalID: -1156456923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 584
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926da39321fb5440a6094f5aad76705
+      internalID: 954656898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 584
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8224b5f7400ae134b8d450748bdc29e5
+      internalID: -1084108013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee007076d443c164591c1e2eb38d8187
+      internalID: -1465548487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 585
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b431483bbae76479f2eafb1f86f3ad
+      internalID: -1432809484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_63
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 585
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867384b5109966244a1bbff03043a9e2
+      internalID: -474045474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 585
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf441af9703efb479efdcebbcf8aaaa
+      internalID: -707030459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 394
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b994f1188b319142900a68bcee39a24
+      internalID: 1150547642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 447
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294681e1b552a1e468601a4e06bc31b8
+      internalID: 555071967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 447
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6373b22ceb6e244fa297c446a6756d8
+      internalID: 1847913183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 447
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ced4e99a9dcfd44ac0932bc3b52d12
+      internalID: -498077112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 447
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fdc10fee54a6d4dbe5437b62d5f918
+      internalID: -1136758632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03981747edb7f3b49b4e5f3484492ef4
+      internalID: 1708087659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 448
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d383266cf2cf424b8eeca4324d6b0bc
+      internalID: -1900490507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 448
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb174b6c9a9f64a9c51781c9a7cc2e
+      internalID: 1346798930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_73
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 449
+        width: 4
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0909df69208d044ca56829e1257302e
+      internalID: 2039330310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_74
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e98749ebf9bc49b665d2ae395b14c
+      internalID: -1141523170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_75
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb08bd68b54bc48ba3f4922a4b80b0
+      internalID: -77793069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 457
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22949e9b4098741b004d4b7541de8a
+      internalID: 1024379900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_77
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 457
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45733f3f94864904ca8d71bb266c18d9
+      internalID: -1459138269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_78
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 458
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64960c45c2fa8f40bc3ab6c4719d1a4
+      internalID: 726799752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 826
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac4766c27c44047acc4514a0e28e92
+      internalID: 857692070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_80
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39571f0c14fa146498f74220daed702d
+      internalID: 2078791526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982ced5a6162dc42a9273eeeff3dae9
+      internalID: -198748476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_82
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 826
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88f12adbcbfa0e4d9eda674592f8ae8
+      internalID: -1460785507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_83
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 835
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d37937632c26242b1a0285a767ff83
+      internalID: -753529848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_84
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 835
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a83ef47a604df4ca489e54064e84a2
+      internalID: -709922835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 835
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61e96d974dc25042b2de8246ecc191a
+      internalID: -572283246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_86
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 816
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a524b91867a1c40af39ebc8e05cce2
+      internalID: -743047422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_87
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 816
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eea1aa35ff199499f83b6f08d594e0
+      internalID: 543327446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_88
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 816
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab4ee22c38acd5429fc8a9252b4da8d
+      internalID: -1528209795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_89
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 833
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d521212190d3984885e120d6c0af429
+      internalID: -2118064062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_90
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 833
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372478baf591ac4faa715145ab01656
+      internalID: -298862271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_91
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 836
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4d8bd95d44e2459a9402c1ced7be2
+      internalID: -1155252226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_92
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 817
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01552947d230e944a4b3e9a2ead0ce9
+      internalID: 1952241218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_93
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 818
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e240f89840b90c42b26354d3c394010
+      internalID: 129290415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_94
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 819
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c1f6fd07daad4e86fffa5935d8bf0
+      internalID: -872424130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_95
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 823
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8711e02b996da4ab33255992f0bd66
+      internalID: 1750611499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_96
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 834
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46b91c4bd3b2142acb56fa2b044185
+      internalID: 224428297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_97
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 833
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc413ab80709d47929d7d48497c716
+      internalID: 1705992452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_98
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 833
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6576ee8674988e409ce22c81371a512
+      internalID: -1234853413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_99
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 823
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe255a167017424ea9a09a1273d6753
+      internalID: 197391609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_100
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 824
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f77b2ceffe7e54a871bb569a6f581d
+      internalID: -1435402111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_101
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 824
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c8dc3d9ce3404c90bf8204a6b2181
+      internalID: 966148318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_102
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 824
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf22b24d17fda0488617840577fd697
+      internalID: 1997267710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_103
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 824
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abef6cbb00b33c4299ba6a3daff5a6f
+      internalID: -802569559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 780
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d87ecc131fcf6488ad7ac66e626613
+      internalID: -1160087662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 829
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8639b3bb0938c4e8b0b3bdb73ee6f3
+      internalID: 1753722536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 827
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37065894487478e489de02542ba71bc3
+      internalID: 1282407121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 827
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4ee89994ad2c43b058c6e80b713d7
+      internalID: -72622353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_108
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 826
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b127c9045ba9e6438fdd007c41ad7de
+      internalID: 1158059303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_109
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 825
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663239851c3f7274eb9741f27aec706a
+      internalID: -958312610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 825
+        width: 14
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf198e33a0a08469c0b836addaaafe
+      internalID: 584829129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 825
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4e4116f4fb4ef4b99dc0de30e8d14c
+      internalID: -1168042484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_112
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 825
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc23d424cff378642b3406605593a7d9
+      internalID: 229592082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 825
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680bb53d0f9e88489d3e4630a2ca190
+      internalID: -429635013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_114
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 825
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328b8dd8b3a4334c964c52baea07669
+      internalID: -1785586510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_115
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 836
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544ea4833dc6594680086e2039b51f8
+      internalID: 1473246138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_116
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 841
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c67606a3f5f734b8d75dc647b16a58
+      internalID: 781505991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_117
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 777
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05577535a2b11499e04f7a42333b02
+      internalID: 2108141408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 777
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e855d08f24f32f44f97e1f214636f4cd
+      internalID: -263187493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_119
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 827
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910fccff3da90d45b71934aaca6cc93
+      internalID: 1807923698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_120
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 826
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d21baff58040d4abe98d76583021e0
+      internalID: -1835132410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_121
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 829
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88bdbcd01ec3141a93e82e9b9605c8
+      internalID: -1092702272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_122
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 827
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c67ad85f95ba24fb003202afdd70bb
+      internalID: 624018860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_123
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 827
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff94458aa54c4e144ac31e5d06cf2554
+      internalID: 1724199581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_124
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 872
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55fd24d55e76f641827659ce8fd09ac
+      internalID: -1030879014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_125
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 872
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805680ac9fcdb34f8043375dbcf9ed8
+      internalID: -286220871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_126
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 872
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269dfbf99e95cc41996176bb539c8c2
+      internalID: -114018512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_127
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 872
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a706655b7b6280419b88e5367ce8cf9
+      internalID: 284111147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_128
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 865
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456a01b226fcab4a8a2f10c905821a9
+      internalID: -541666168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_129
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 865
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4770c41ff7f03f449910075e3c07270
+      internalID: -213857850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_130
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 865
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27eedc664cfb7344a964a4e2d0c9141
+      internalID: 1402488943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_131
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 865
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f2095bc809854d9aa138aad1d632d
+      internalID: 1358461286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_132
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 865
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0085b5e92e8944a6d84a8429a66ef
+      internalID: -2137423025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_133
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 519
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bc7e594d782f044a329c84c682b3b7
+      internalID: 1135448304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_134
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 526
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12409b19fa18304ab5605e67c5b77ee
+      internalID: 1423865330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_135
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 519
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f9b24080cdc4488882888ffc7fd68
+      internalID: -638012213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 526
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ee269ecd3433c4b9f17a335a71f9f2
+      internalID: -36512090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_137
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 490
+        width: 3
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e37e1afe592d3499864978313a9e4b
+      internalID: 7860091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 490
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc68c7c412de9c42960a63b12174f0d
+      internalID: -292187175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_139
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 490
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4effd758dce26374a9429dcb698cbabf
+      internalID: 1410065925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2db52737f26b43b357870c59a3610
+      internalID: 1273617446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_141
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1533
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37164cca9b0f7e543a067369129d9a01
+      internalID: -186243696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_142
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1832068498da6745a08157c38188ee8
+      internalID: -191317588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_143
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1397
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d277c925b5b304fa7bd34e5ffb737a
+      internalID: 844341409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_144
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1395
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f6aa1afdc2bc348b7022f506e19371
+      internalID: 729173269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_145
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3575dc4e44ea0914e82e1803ccad3a2b
+      internalID: 369275849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_146
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e3fc404e403b4795ad6fef9a2a9fe
+      internalID: 962904707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_147
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1400
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a4368e93f7f9419b697d99316b664
+      internalID: 1079705667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_148
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1426
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c14e1c20a8244fb8228d3b9c22c18
+      internalID: 219196075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_149
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1425
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88535f379db478b48a03a47195fd696f
+      internalID: 1183593864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_150
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1424
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a32ba8a6eb3943ac5cebee0e02a79
+      internalID: -1802586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_151
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1423
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978494685cd9e143adef5b92ca5d8c8
+      internalID: -2030184716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_152
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab6991899bb9749b4defcbf5a5eae2
+      internalID: 1381667602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_153
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1482
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d37152bf44ac84f8afb13ea273de61
+      internalID: -440837159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_154
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1481
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc775a7cf086654294b8d6b312d0a73
+      internalID: 1801520704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X3 - Weapons and Items_155
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1062
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef59a9d637dd8d4d9e94f848ecd0019
+      internalID: 492005324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Mega Man X3 - Weapons and Items_0: 1497880765
+      SNES - Mega Man X3 - Weapons and Items_1: -1378060329
+      SNES - Mega Man X3 - Weapons and Items_10: 2015063353
+      SNES - Mega Man X3 - Weapons and Items_100: -1435402111
+      SNES - Mega Man X3 - Weapons and Items_101: 966148318
+      SNES - Mega Man X3 - Weapons and Items_102: 1997267710
+      SNES - Mega Man X3 - Weapons and Items_103: -802569559
+      SNES - Mega Man X3 - Weapons and Items_104: -1160087662
+      SNES - Mega Man X3 - Weapons and Items_105: 1753722536
+      SNES - Mega Man X3 - Weapons and Items_106: 1282407121
+      SNES - Mega Man X3 - Weapons and Items_107: -72622353
+      SNES - Mega Man X3 - Weapons and Items_108: 1158059303
+      SNES - Mega Man X3 - Weapons and Items_109: -958312610
+      SNES - Mega Man X3 - Weapons and Items_11: 1618647359
+      SNES - Mega Man X3 - Weapons and Items_110: 584829129
+      SNES - Mega Man X3 - Weapons and Items_111: -1168042484
+      SNES - Mega Man X3 - Weapons and Items_112: 229592082
+      SNES - Mega Man X3 - Weapons and Items_113: -429635013
+      SNES - Mega Man X3 - Weapons and Items_114: -1785586510
+      SNES - Mega Man X3 - Weapons and Items_115: 1473246138
+      SNES - Mega Man X3 - Weapons and Items_116: 781505991
+      SNES - Mega Man X3 - Weapons and Items_117: 2108141408
+      SNES - Mega Man X3 - Weapons and Items_118: -263187493
+      SNES - Mega Man X3 - Weapons and Items_119: 1807923698
+      SNES - Mega Man X3 - Weapons and Items_12: 816368267
+      SNES - Mega Man X3 - Weapons and Items_120: -1835132410
+      SNES - Mega Man X3 - Weapons and Items_121: -1092702272
+      SNES - Mega Man X3 - Weapons and Items_122: 624018860
+      SNES - Mega Man X3 - Weapons and Items_123: 1724199581
+      SNES - Mega Man X3 - Weapons and Items_124: -1030879014
+      SNES - Mega Man X3 - Weapons and Items_125: -286220871
+      SNES - Mega Man X3 - Weapons and Items_126: -114018512
+      SNES - Mega Man X3 - Weapons and Items_127: 284111147
+      SNES - Mega Man X3 - Weapons and Items_128: -541666168
+      SNES - Mega Man X3 - Weapons and Items_129: -213857850
+      SNES - Mega Man X3 - Weapons and Items_13: -1757724298
+      SNES - Mega Man X3 - Weapons and Items_130: 1402488943
+      SNES - Mega Man X3 - Weapons and Items_131: 1358461286
+      SNES - Mega Man X3 - Weapons and Items_132: -2137423025
+      SNES - Mega Man X3 - Weapons and Items_133: 1135448304
+      SNES - Mega Man X3 - Weapons and Items_134: 1423865330
+      SNES - Mega Man X3 - Weapons and Items_135: -638012213
+      SNES - Mega Man X3 - Weapons and Items_136: -36512090
+      SNES - Mega Man X3 - Weapons and Items_137: 7860091
+      SNES - Mega Man X3 - Weapons and Items_138: -292187175
+      SNES - Mega Man X3 - Weapons and Items_139: 1410065925
+      SNES - Mega Man X3 - Weapons and Items_14: 1128267849
+      SNES - Mega Man X3 - Weapons and Items_140: 1273617446
+      SNES - Mega Man X3 - Weapons and Items_141: -186243696
+      SNES - Mega Man X3 - Weapons and Items_142: -191317588
+      SNES - Mega Man X3 - Weapons and Items_143: 844341409
+      SNES - Mega Man X3 - Weapons and Items_144: 729173269
+      SNES - Mega Man X3 - Weapons and Items_145: 369275849
+      SNES - Mega Man X3 - Weapons and Items_146: 962904707
+      SNES - Mega Man X3 - Weapons and Items_147: 1079705667
+      SNES - Mega Man X3 - Weapons and Items_148: 219196075
+      SNES - Mega Man X3 - Weapons and Items_149: 1183593864
+      SNES - Mega Man X3 - Weapons and Items_15: -1889070489
+      SNES - Mega Man X3 - Weapons and Items_150: -1802586560
+      SNES - Mega Man X3 - Weapons and Items_151: -2030184716
+      SNES - Mega Man X3 - Weapons and Items_152: 1381667602
+      SNES - Mega Man X3 - Weapons and Items_153: -440837159
+      SNES - Mega Man X3 - Weapons and Items_154: 1801520704
+      SNES - Mega Man X3 - Weapons and Items_155: 492005324
+      SNES - Mega Man X3 - Weapons and Items_16: -62041685
+      SNES - Mega Man X3 - Weapons and Items_17: -85206001
+      SNES - Mega Man X3 - Weapons and Items_18: -683418789
+      SNES - Mega Man X3 - Weapons and Items_19: -744546655
+      SNES - Mega Man X3 - Weapons and Items_2: -196380934
+      SNES - Mega Man X3 - Weapons and Items_20: -273736542
+      SNES - Mega Man X3 - Weapons and Items_21: 1664430872
+      SNES - Mega Man X3 - Weapons and Items_22: -142333235
+      SNES - Mega Man X3 - Weapons and Items_23: -1798312712
+      SNES - Mega Man X3 - Weapons and Items_24: 184358863
+      SNES - Mega Man X3 - Weapons and Items_25: -1832208210
+      SNES - Mega Man X3 - Weapons and Items_26: 784006373
+      SNES - Mega Man X3 - Weapons and Items_27: -807813748
+      SNES - Mega Man X3 - Weapons and Items_28: 520064587
+      SNES - Mega Man X3 - Weapons and Items_29: -2043933575
+      SNES - Mega Man X3 - Weapons and Items_3: -444562170
+      SNES - Mega Man X3 - Weapons and Items_30: -1914558902
+      SNES - Mega Man X3 - Weapons and Items_31: -897775359
+      SNES - Mega Man X3 - Weapons and Items_32: -1217202292
+      SNES - Mega Man X3 - Weapons and Items_33: -67896899
+      SNES - Mega Man X3 - Weapons and Items_34: 1660063736
+      SNES - Mega Man X3 - Weapons and Items_35: -941897449
+      SNES - Mega Man X3 - Weapons and Items_36: -1403763296
+      SNES - Mega Man X3 - Weapons and Items_37: -557009893
+      SNES - Mega Man X3 - Weapons and Items_38: 1152600679
+      SNES - Mega Man X3 - Weapons and Items_39: -711533924
+      SNES - Mega Man X3 - Weapons and Items_4: -726821108
+      SNES - Mega Man X3 - Weapons and Items_40: -1477258844
+      SNES - Mega Man X3 - Weapons and Items_41: 1220823246
+      SNES - Mega Man X3 - Weapons and Items_42: -1122896998
+      SNES - Mega Man X3 - Weapons and Items_43: -2043226421
+      SNES - Mega Man X3 - Weapons and Items_44: -1392887530
+      SNES - Mega Man X3 - Weapons and Items_45: -1962054492
+      SNES - Mega Man X3 - Weapons and Items_46: 882147035
+      SNES - Mega Man X3 - Weapons and Items_47: 171756825
+      SNES - Mega Man X3 - Weapons and Items_48: -1852853570
+      SNES - Mega Man X3 - Weapons and Items_49: -1172857830
+      SNES - Mega Man X3 - Weapons and Items_5: -1847463049
+      SNES - Mega Man X3 - Weapons and Items_50: -1219811945
+      SNES - Mega Man X3 - Weapons and Items_51: 93235029
+      SNES - Mega Man X3 - Weapons and Items_52: -331567147
+      SNES - Mega Man X3 - Weapons and Items_53: -1633341184
+      SNES - Mega Man X3 - Weapons and Items_54: 32071106
+      SNES - Mega Man X3 - Weapons and Items_55: -298906760
+      SNES - Mega Man X3 - Weapons and Items_56: -1457375039
+      SNES - Mega Man X3 - Weapons and Items_57: 149347245
+      SNES - Mega Man X3 - Weapons and Items_58: -1156456923
+      SNES - Mega Man X3 - Weapons and Items_59: 954656898
+      SNES - Mega Man X3 - Weapons and Items_6: -1762000691
+      SNES - Mega Man X3 - Weapons and Items_60: -1084108013
+      SNES - Mega Man X3 - Weapons and Items_61: -1465548487
+      SNES - Mega Man X3 - Weapons and Items_62: -1432809484
+      SNES - Mega Man X3 - Weapons and Items_63: -474045474
+      SNES - Mega Man X3 - Weapons and Items_64: -707030459
+      SNES - Mega Man X3 - Weapons and Items_65: 1150547642
+      SNES - Mega Man X3 - Weapons and Items_66: 555071967
+      SNES - Mega Man X3 - Weapons and Items_67: 1847913183
+      SNES - Mega Man X3 - Weapons and Items_68: -498077112
+      SNES - Mega Man X3 - Weapons and Items_69: -1136758632
+      SNES - Mega Man X3 - Weapons and Items_7: 1685694677
+      SNES - Mega Man X3 - Weapons and Items_70: 1708087659
+      SNES - Mega Man X3 - Weapons and Items_71: -1900490507
+      SNES - Mega Man X3 - Weapons and Items_72: 1346798930
+      SNES - Mega Man X3 - Weapons and Items_73: 2039330310
+      SNES - Mega Man X3 - Weapons and Items_74: -1141523170
+      SNES - Mega Man X3 - Weapons and Items_75: -77793069
+      SNES - Mega Man X3 - Weapons and Items_76: 1024379900
+      SNES - Mega Man X3 - Weapons and Items_77: -1459138269
+      SNES - Mega Man X3 - Weapons and Items_78: 726799752
+      SNES - Mega Man X3 - Weapons and Items_79: 857692070
+      SNES - Mega Man X3 - Weapons and Items_8: -1051913764
+      SNES - Mega Man X3 - Weapons and Items_80: 2078791526
+      SNES - Mega Man X3 - Weapons and Items_81: -198748476
+      SNES - Mega Man X3 - Weapons and Items_82: -1460785507
+      SNES - Mega Man X3 - Weapons and Items_83: -753529848
+      SNES - Mega Man X3 - Weapons and Items_84: -709922835
+      SNES - Mega Man X3 - Weapons and Items_85: -572283246
+      SNES - Mega Man X3 - Weapons and Items_86: -743047422
+      SNES - Mega Man X3 - Weapons and Items_87: 543327446
+      SNES - Mega Man X3 - Weapons and Items_88: -1528209795
+      SNES - Mega Man X3 - Weapons and Items_89: -2118064062
+      SNES - Mega Man X3 - Weapons and Items_9: -1410137509
+      SNES - Mega Man X3 - Weapons and Items_90: -298862271
+      SNES - Mega Man X3 - Weapons and Items_91: -1155252226
+      SNES - Mega Man X3 - Weapons and Items_92: 1952241218
+      SNES - Mega Man X3 - Weapons and Items_93: 129290415
+      SNES - Mega Man X3 - Weapons and Items_94: -872424130
+      SNES - Mega Man X3 - Weapons and Items_95: 1750611499
+      SNES - Mega Man X3 - Weapons and Items_96: 224428297
+      SNES - Mega Man X3 - Weapons and Items_97: 1705992452
+      SNES - Mega Man X3 - Weapons and Items_98: -1234853413
+      SNES - Mega Man X3 - Weapons and Items_99: 197391609
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

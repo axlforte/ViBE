@@ -1,0 +1,7 @@
+the speeds are based off of this forum thread
+https://sprites-inc.co.uk/showthread.php?tid=1794
+as far as i can feel it is completely accurate. 
+
+ANIMATION NOTES
+the animations are in order! the names are off by 1 however, so animation # 0 is frame # 1
+

@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &718925853924577058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 718925853924577086}
+  - component: {fileID: 718925853924577057}
+  - component: {fileID: 718925853924577059}
+  - component: {fileID: 718925853924577056}
+  m_Layer: 0
+  m_Name: tile test visual
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &718925853924577086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718925853924577058}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &718925853924577057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718925853924577058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c39588eb38218874ab8e4d06daaffdc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TmapSpriteUVArray:
+  - TmapSprite: 0
+    uv00: {x: 20, y: 0}
+  - TmapSprite: 2
+    uv00: {x: 0, y: 0}
+  - TmapSprite: 3
+    uv00: {x: 16, y: 0}
+  - TmapSprite: 5
+    uv00: {x: 0, y: 16}
+  - TmapSprite: 6
+    uv00: {x: 48, y: 16}
+  - TmapSprite: 7
+    uv00: {x: 32, y: 16}
+  - TmapSprite: 8
+    uv00: {x: 16, y: 16}
+  - TmapSprite: 9
+    uv00: {x: 64, y: 16}
+  - TmapSprite: 10
+    uv00: {x: 80, y: 16}
+  - TmapSprite: 11
+    uv00: {x: 96, y: 16}
+  - TmapSprite: 12
+    uv00: {x: 112, y: 16}
+  - TmapSprite: 13
+    uv00: {x: 32, y: 0}
+  - TmapSprite: 14
+    uv00: {x: 48, y: 0}
+  - TmapSprite: 1
+    uv00: {x: 64, y: 32}
+  - TmapSprite: 15
+    uv00: {x: 32, y: 64}
+  - TmapSprite: 16
+    uv00: {x: 48, y: 80}
+  - TmapSprite: 17
+    uv00: {x: 16, y: 80}
+  - TmapSprite: 18
+    uv00: {x: 16, y: 64}
+  - TmapSprite: 19
+    uv00: {x: 48, y: 64}
+  - TmapSprite: 20
+    uv00: {x: 32, y: 80}
+  - TmapSprite: 26
+    uv00: {x: 64, y: 80}
+  - TmapSprite: 25
+    uv00: {x: 80, y: 80}
+  - TmapSprite: 28
+    uv00: {x: 64, y: 64}
+  - TmapSprite: 27
+    uv00: {x: 80, y: 64}
+  - TmapSprite: 29
+    uv00: {x: 0, y: 80}
+  - TmapSprite: 30
+    uv00: {x: 0, y: 64}
+  - TmapSprite: 32
+    uv00: {x: 96, y: 80}
+  - TmapSprite: 31
+    uv00: {x: 112, y: 80}
+  - TmapSprite: 34
+    uv00: {x: 96, y: 64}
+  - TmapSprite: 33
+    uv00: {x: 112, y: 64}
+  - TmapSprite: 37
+    uv00: {x: 16, y: 48}
+  - TmapSprite: 38
+    uv00: {x: 16, y: 32}
+  - TmapSprite: 35
+    uv00: {x: 32, y: 32}
+  - TmapSprite: 36
+    uv00: {x: 32, y: 48}
+  - TmapSprite: 39
+    uv00: {x: 96, y: 32}
+  - TmapSprite: 40
+    uv00: {x: 112, y: 32}
+  - TmapSprite: 43
+    uv00: {x: 80, y: 272}
+  - TmapSprite: 53
+    uv00: {x: 80, y: 96}
+  - TmapSprite: 54
+    uv00: {x: 144, y: 16}
+  - TmapSprite: 55
+    uv00: {x: 144, y: 32}
+  - TmapSprite: 56
+    uv00: {x: 128, y: 16}
+  - TmapSprite: 57
+    uv00: {x: 160, y: 16}
+  - TmapSprite: 58
+    uv00: {x: 144, y: 0}
+  - TmapSprite: 59
+    uv00: {x: 160, y: 32}
+  - TmapSprite: 60
+    uv00: {x: 128, y: 32}
+  - TmapSprite: 61
+    uv00: {x: 160, y: 0}
+  - TmapSprite: 62
+    uv00: {x: 128, y: 0}
+  - TmapSprite: 63
+    uv00: {x: 144, y: 240}
+  - TmapSprite: 64
+    uv00: {x: 128, y: 240}
+  - TmapSprite: 65
+    uv00: {x: 144, y: 224}
+  - TmapSprite: 66
+    uv00: {x: 128, y: 224}
+  - TmapSprite: 67
+    uv00: {x: 144, y: 256}
+  - TmapSprite: 68
+    uv00: {x: 128, y: 256}
+  - TmapSprite: 69
+    uv00: {x: 128, y: 272}
+  - TmapSprite: 70
+    uv00: {x: 144, y: 272}
+  - TmapSprite: 81
+    uv00: {x: 16, y: 272}
+  - TmapSprite: 82
+    uv00: {x: 0, y: 272}
+  - TmapSprite: 83
+    uv00: {x: 32, y: 272}
+  - TmapSprite: 84
+    uv00: {x: 48, y: 272}
+  - TmapSprite: 85
+    uv00: {x: 0, y: 288}
+  - TmapSprite: 86
+    uv00: {x: 16, y: 288}
+  - TmapSprite: 86
+    uv00: {x: 16, y: 288}
+  - TmapSprite: 92
+    uv00: {x: 192, y: 64}
+  - TmapSprite: 93
+    uv00: {x: 192, y: 80}
+  - TmapSprite: 94
+    uv00: {x: 256, y: 112}
+  - TmapSprite: 95
+    uv00: {x: 240, y: 96}
+  - TmapSprite: 96
+    uv00: {x: 224, y: 96}
+  - TmapSprite: 97
+    uv00: {x: 240, y: 112}
+  - TmapSprite: 98
+    uv00: {x: 224, y: 112}
+  - TmapSprite: 99
+    uv00: {x: 224, y: 64}
+  - TmapSprite: 100
+    uv00: {x: 240, y: 64}
+  - TmapSprite: 87
+    uv00: {x: 32, y: 288}
+  - TmapSprite: 89
+    uv00: {x: 64, y: 288}
+  - TmapSprite: 88
+    uv00: {x: 48, y: 288}
+  - TmapSprite: 106
+    uv00: {x: 96, y: 288}
+  - TmapSprite: 103
+    uv00: {x: 256, y: 400}
+  - TmapSprite: 104
+    uv00: {x: 224, y: 320}
+  - TmapSprite: 105
+    uv00: {x: 240, y: 320}
+  - TmapSprite: 124
+    uv00: {x: 336, y: 240}
+  - TmapSprite: 125
+    uv00: {x: 320, y: 240}
+  - TmapSprite: 126
+    uv00: {x: 368, y: 240}
+  - TmapSprite: 127
+    uv00: {x: 352, y: 240}
+  - TmapSprite: 129
+    uv00: {x: 32, y: 400}
+  - TmapSprite: 130
+    uv00: {x: 32, y: 416}
+  - TmapSprite: 132
+    uv00: {x: 112, y: 416}
+  - TmapSprite: 134
+    uv00: {x: 64, y: 400}
+  - TmapSprite: 135
+    uv00: {x: 80, y: 400}
+  - TmapSprite: 136
+    uv00: {x: 80, y: 384}
+  - TmapSprite: 137
+    uv00: {x: 64, y: 384}
+  - TmapSprite: 49
+    uv00: {x: 32, y: 416}
+  - TmapSprite: 47
+    uv00: {x: 32, y: 416}
+  - TmapSprite: 169
+    uv00: {x: 192, y: 32}
+  - TmapSprite: 170
+    uv00: {x: 208, y: 32}
+  - TmapSprite: 171
+    uv00: {x: 192, y: 16}
+  - TmapSprite: 172
+    uv00: {x: 208, y: 16}
+  - TmapSprite: 108
+    uv00: {x: 400, y: 240}
+  - TmapSprite: 109
+    uv00: {x: 384, y: 240}
+  - TmapSprite: 110
+    uv00: {x: 400, y: 224}
+  - TmapSprite: 111
+    uv00: {x: 304, y: 416}
+  - TmapSprite: 112
+    uv00: {x: 336, y: 416}
+  - TmapSprite: 113
+    uv00: {x: 288, y: 416}
+  - TmapSprite: 107
+    uv00: {x: 208, y: 48}
+  - TmapSprite: 166
+    uv00: {x: 128, y: 384}
+  - TmapSprite: 167
+    uv00: {x: 128, y: 400}
+  - TmapSprite: 168
+    uv00: {x: 128, y: 416}
+  - TmapSprite: 90
+    uv00: {x: 80, y: 288}
+  - TmapSprite: 91
+    uv00: {x: 112, y: 272}
+  - TmapSprite: 173
+    uv00: {x: 112, y: 288}
+  ParallaxTransform: {fileID: 0}
+  MeshSize: 64
+  verticalMeshOffset: 2
+  horizontalMeshOffset: 2
+  BasicMesh: {fileID: 5103163339929752571, guid: 276030b2444c20d4c842b85de4db9002, type: 3}
+  updatePos: {x: 0, y: 0}
+  GameplayMeshUpdate: 0
+  chunkedMeshes: 1
+  doNearbyChunks: 0
+--- !u!33 &718925853924577059
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718925853924577058}
+  m_Mesh: {fileID: 0}
+--- !u!23 &718925853924577056
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718925853924577058}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: bc177f6ddfc23374086bc527bf8bec4f, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
